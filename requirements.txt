@@ -1,0 +1,10 @@
+ctkcomponents~=0.4
+customtkinter~=5.2.2
+CTkToolTip~=0.8
+pillow~=10.2.0
+mutagen~=1.47.0
+pygame~=2.5.2
+pywinstyles~=1.7
+pynvml~=11.5.0
+pydub~=0.25.1
+openai-whisper~=20231117
