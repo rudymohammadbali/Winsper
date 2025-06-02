@@ -40,7 +40,5 @@ cd Winsper
 pip install -r requirements.txt
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
-###
 
-<h2 align="left">Support</h2>
 
